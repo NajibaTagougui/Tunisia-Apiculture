@@ -1,0 +1,6 @@
+{
+  "name": "Tunisia Apiculture Atlas & Yield Predictor",
+  "description": "Agro-climatic intelligence and floral bloom decision platform for Tunisian honey farmers to optimize harvest locations, explore interactive heatmaps, and forecast seasonal yields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
